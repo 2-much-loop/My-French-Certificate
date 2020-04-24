@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My French Certificate</string>
+    <string name="information">Information</string>
+    <string name="information_message">This app allows you to generate a french certificate for when you need to move outside your house.\n\nDo not forget to bring your ID with your certificate as it is mandatory if you get controlled.\n\nFor security\'s sake, all your data is stored locally in your smartphone, this app has no internet access.\n\nQRGenerator (https://github.com/androidmads/QRGenerator)\nAndroidMad / Mushtaq M A\nMIT license</string>
+    <string name="ok">OK</string>
+    <string name="qr_code">Certificate</string>
+    <string name="period_for"></string>
+    <string name="period_starting">" "</string>
+    <string name="generator">Generator</string>
+    <string name="certificates">Certificates</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="birth_date">Birth date</string>
+    <string name="birth_place">Birth place</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="postal_code">Postal code</string>
+    <string name="activity">Activity</string>
+    <string name="leaving_date">Leaving date</string>
+    <string name="leaving_time">Leaving time</string>
+
+    <string name="first_name_lower">first name</string>
+    <string name="last_name_lower">last name</string>
+    <string name="birth_date_lower">birth date</string>
+    <string name="birth_place_lower">birth place</string>
+    <string name="address_lower">address</string>
+    <string name="city_lower">city</string>
+    <string name="postal_code_lower">postal code</string>
+    <string name="activity_lower">activity</string>
+    <string name="leaving_date_lower">leaving date</string>
+    <string name="leaving_time_lower">leaving time</string>
+
+    <string name="please_type_in">"Please type in "</string>
+    <string name="your">"your "</string>
+    <string name="and_your">"and your "</string>
+    <string name="to_generate">" to generate your certificate."</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="success_message">The certificate has been generated ! You can check it out now in the Certificates section.</string>
+
+    <string name="generate">Generate</string>
+
+    <string name="activity_work">Work reasons</string>
+    <string name="activity_goods">Food, essential or work supplies</string>
+    <string name="activity_care">Medical reasons</string>
+    <string name="activity_family">Family reasons</string>
+    <string name="activity_stuff">Physical activity, personal or animal walk</string>
+    <string name="activity_administration">Judicial or administrative reasons</string>
+    <string name="activity_authority">Public interest missions</string>
+</resources>

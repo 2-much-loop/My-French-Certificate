@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Mon Attestation</string>
+    <string name="information">Informations</string>
+    <string name="information_message">Cette application vous permet de générer une attestation de déplacement QR code identique à celle proposée sur le générateur officiel.\n\nN\'oubliez pas qu\'une pièce d\'identité est nécessaire en plus de cette attestation en cas de contrôle.\n\nPour des raisons de sécurité évidentes, vos données sont stockées uniquement dans votre smartphone, cette application n\'a pas accès à internet.\n\nQRGenerator (https://github.com/androidmads/QRGenerator)\nAndroidMad / Mushtaq M A\nMIT license</string>
+    <string name="ok">OK</string>
+    <string name="qr_code">Attestation</string>
+    <string name="period_for">"Pour le "</string>
+    <string name="period_starting">" à partir de "</string>
+    <string name="generator">Générateur</string>
+    <string name="certificates">Attestations</string>
+
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="birth_place">Lieu de naissance</string>
+    <string name="address">Adresse</string>
+    <string name="city">Ville</string>
+    <string name="postal_code">Code postal</string>
+    <string name="activity">Activité</string>
+    <string name="leaving_date">Date de sortie</string>
+    <string name="leaving_time">Heure de sortie</string>
+
+    <string name="first_name_lower">prénom</string>
+    <string name="last_name_lower">nom</string>
+    <string name="birth_date_lower">date de naissance</string>
+    <string name="birth_place_lower">lieu de naissance</string>
+    <string name="address_lower">adresse</string>
+    <string name="city_lower">ville</string>
+    <string name="postal_code_lower">code postal</string>
+    <string name="activity_lower">activité</string>
+    <string name="leaving_date_lower">date de sortie</string>
+    <string name="leaving_time_lower">heure de sortie</string>
+
+    <string name="please_type_in">"Merci de renseigner "</string>
+    <string name="your">"votre "</string>
+    <string name="and_your">"et votre "</string>
+    <string name="to_generate">" pour pouvoir générer votre attestation."</string>
+    <string name="error">Erreur</string>
+    <string name="success">Succès</string>
+    <string name="success_message">L\'attestation a bien été générée ! Retrouvez-la dès maintenant dans l\'onglet Attestations.</string>
+
+    <string name="generate">Générer</string>
+
+    <string name="activity_work">Déplacements entre le domicile et le lieu d’exercice de l’activité professionnelle, lorsqu\'ils sont indispensables à l\'exercice d’activités ne pouvant être organisées sous forme de télétravail ou déplacements professionnels ne pouvant être différés</string>
+    <string name="activity_goods">Déplacements pour effectuer des achats de fournitures nécessaires à l’activité professionnelle et des achats de première nécessité dans des établissements dont les activités demeurent autorisées</string>
+    <string name="activity_care">Consultations et soins ne pouvant être assurés à distance et ne pouvant être différés ; consultations et soins des patients atteints d\'une affection de longue durée</string>
+    <string name="activity_family">Déplacements pour motif familial impérieux, pour l’assistance aux personnes vulnérables ou la garde d’enfants</string>
+    <string name="activity_stuff">Déplacements brefs, dans la limite d\'une heure quotidienne et dans un rayon maximal d\'un kilomètre autour du domicile, liés soit à l\'activité physique individuelle des personnes, à l\'exclusion de toute pratique sportive collective et de toute proximité avec d\'autres personnes, soit à la promenade avec les seules personnes regroupées dans un même domicile, soit aux besoins des animaux de compagnie</string>
+    <string name="activity_administration">Convocation judiciaire ou administrative</string>
+    <string name="activity_authority">Participation à des missions d’intérêt général sur demande de l’autorité administrative</string>
+</resources>
